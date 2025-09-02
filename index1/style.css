@@ -1,0 +1,151 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image:url(images/mainbg.jpg);
+	background-repeat:repeat-x;
+	background-color: #C8C8C8;
+}
+* ul li {
+	color:#000000;
+	list-style-position:outside;
+
+
+
+
+}
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #646363;
+	line-height: 18px;
+}
+.content a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #11185C;
+	line-height: 18px;
+	text-decoration:underline;
+}
+.mobile {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #186DB4;
+	line-height: 18px;
+	text-decoration:none;
+}
+.mobile1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #186DB4;
+	line-height: 18px;
+	text-decoration:none;
+}
+.mobile a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #186DB4;
+	line-height: 18px;
+	text-decoration:underline;
+
+}
+.contentsmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #646363;
+	line-height: 19px;
+
+}
+.contentblue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #0084cf;
+	line-height: 19px;
+
+}
+.contentsmallred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #e51f26;
+	line-height: 15px;
+
+}
+.contentred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #e51f26;
+	line-height: 15px;
+	text-decoration: none;
+
+}
+.contentred:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #e51f26;
+	line-height: 15px;
+	text-decoration: underline;
+
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	padding: 14px;
+	margin: 0px;
+}
+
+.heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: normal;
+	text-transform: none;
+	color: #000000;
+}
+.training {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0000CC;
+}
+.alert{
+color:red;
+}
+.content marquee strong {
+	font-size: 13px;
+	color: #186DB4;
+}
+.c {
+	color: #BD0B21;
+}
+.c {
+	color: #BB0C29;
+}
+.wee {
+	color: #BB0D26;
+}
+.mainw {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 14px;
+}
+.content marquee {
+	font-size: 14px;
+}
